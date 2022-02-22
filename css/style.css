@@ -1,12 +1,12 @@
 body {
-    background: rgba(218, 240, 255, 1);
+    background: #d9eefc;
     height: 100%;
     width: 100%;
     overflow-x: hidden;
 }
 
 .main {
-    box-shadow: 0 0 17px 0 rgba(65, 131, 156, 0.65);
+    box-shadow: 0 0 17px 0 #47859c;
 }
 /***Start of Navigation bar***/
 .navbar-brand {
@@ -32,6 +32,7 @@ color: rgb(94, 134, 134) !important;
 /***Start of About section***/
 .about-container {
     padding-top: 8rem;
+    padding-bottom: 8rem;
     text-align: center;
 }
 
@@ -65,13 +66,39 @@ color: rgb(94, 134, 134) !important;
 }
 
 .btn {
-    color: #154861 !important;
-}
-
-.btn:hover {
     color: #fff!important;
     background: #68a4c7;
     border: none;
 }
+
+.btn:hover {
+    color: #154861 !important;
+    background: transparent;
+    border: 1px solid;
+}
 /***End of About section***/
+/*** Start of Project section ***/
+.project-container {
+    padding-top: 5rem;
+    background-color: hsl(212, 100%, 94%);
+}
+
+.project-container h2 {
+    text-align: center;
+    margin-bottom: 5rem;
+    color: #154861;
+}
+
+.card {
+    margin-bottom: 4rem;
+    box-shadow: 5px 8px 16px -5px rgba(0,0,0,0.82);
+    border-radius: 10px;
+}
+
+.card-btn {
+    color: #154861 !important;
+    background: transparent;
+    border: 1px solid ;
+}
+/*** End of Project section ***/
 
