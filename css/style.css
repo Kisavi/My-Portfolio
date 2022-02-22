@@ -1,6 +1,8 @@
 body {
     background: rgba(218, 240, 255, 1);
     height: 100%;
+    width: 100%;
+    overflow-x: hidden;
 }
 
 .main {
@@ -20,6 +22,11 @@ body {
 
 .nav-link:hover {
 color: rgb(94, 134, 134) !important;
+}
+
+.navbar-toggler {
+    border: none;
+    padding: 0;
 }
 /***End of Navigation bar***/
 /***Start of About section***/
