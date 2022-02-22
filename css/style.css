@@ -22,4 +22,10 @@ body {
 color: rgb(94, 134, 134) !important;
 }
 /***End of Navigation bar***/
+/***Start of About section***/
+.about-container {
+    padding-top: 8rem;
+    text-align: center;
+}
+
 
