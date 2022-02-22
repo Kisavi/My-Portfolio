@@ -1,4 +1,23 @@
 body {
-    background: rgba(247, 250, 252, 1);
-    height: 100vh;
+    background: rgba(218, 240, 255, 1);
+    height: 100%;
+}
+
+.main {
+    box-shadow: 0 0 17px 0 rgba(65, 131, 156, 0.65);
+}
+
+.navbar-brand {
+    color: #68a4c7 !important;
+    font-size: 2.2em;
+    font-weight: 900;
+}
+
+.nav-link {
+    font-size: 1.2em;
+    color: #476472 !important;
+}
+
+.nav-link:hover {
+color: rgb(94, 134, 134) !important;
 }
