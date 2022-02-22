@@ -47,3 +47,24 @@ color: rgb(94, 134, 134) !important;
     height: 3.2rem;
 }
 
+.about-description {
+    padding-top: 2.4rem;
+    line-height: 1rem;
+    color: #154861;
+}
+
+.about-button {
+    padding-top: 2.4em;
+}
+
+.btn {
+    color: #154861 !important;
+}
+
+.btn:hover {
+    color: #fff!important;
+    background: #68a4c7;
+    border: none;
+}
+/***End of About section***/
+
