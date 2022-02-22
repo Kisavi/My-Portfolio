@@ -38,3 +38,12 @@ color: rgb(94, 134, 134) !important;
     color: #68a4c7;
 }
 
+.about-first-part {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.about-image {
+    height: 3.2rem;
+}
+
