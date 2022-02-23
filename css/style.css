@@ -80,6 +80,7 @@ color: rgb(94, 134, 134) !important;
 /*** Start of Project section ***/
 .project-container {
     padding-top: 5rem;
+    padding-bottom: 5rem;
     background-color: hsl(212, 100%, 94%);
     align-items: center;
 }
@@ -105,6 +106,11 @@ color: rgb(94, 134, 134) !important;
 .card-body p{
 color: #2f5063;
 }
-
 /*** End of Project section ***/
+/*** Start of Contact form ***/
+.contact-container {
+    padding-top: 8rem;
+    padding-bottom: 5rem;
+}
+/*** End of Contact form ***/
 
