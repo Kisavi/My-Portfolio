@@ -112,7 +112,17 @@ color: #2f5063;
     padding-top: 8rem;
     padding-bottom: 5rem;
 }
+
+.social-icons a {
+    color: black;
+}
 /*** End of Contact form ***/
 /*** Start of Footer section ***/
+.footer {
+    text-align: center;
+    background-color: #82afc0;
+    padding-top: 0.8rem;
+    border-top: 1px solid #89969b;
+}
 /*** End of Footer section ***/
 
