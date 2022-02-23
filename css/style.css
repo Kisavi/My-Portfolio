@@ -116,6 +116,13 @@ color: #2f5063;
 .social-icons a {
     color: black;
 }
+
+#arrow-up {
+    position: fixed;
+    font-size: 35px;
+    right: 30px;
+    bottom: 8px;
+}
 /*** End of Contact form ***/
 /*** Start of Footer section ***/
 .footer {
